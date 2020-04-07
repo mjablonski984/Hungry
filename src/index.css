@@ -1,0 +1,15 @@
+/* Universal Styles */
+html {
+  font-size: 18px;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #fdf7ca;
+}
+
+div#root {
+  min-height: 100%;
+}
